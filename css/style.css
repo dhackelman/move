@@ -1,5 +1,5 @@
 html, body {
-  margin: 0;
+  margin: auto;
 }
 
 h1, h2, a {
@@ -100,7 +100,8 @@ p {
 /* Feature */
 .feature {
   height: 600px;
-  background: url(https://s3.amazonaws.com/codecademy-content/projects/move/feature.jpg);
+  background: url(http://14761-presscdn-0-15.pagely.netdna-cdn.com/wp-content/uploads/2016/05/hope-technology-5am_29-1140x760.jpg);
+  background-size: cover;
 }
 
 .feature .container {
@@ -112,7 +113,7 @@ p {
 
 .feature h1,
 .feature h2 {
-  color: #fff;
+  color: #000000;
   font-size: 40px;
   margin: 0;
   padding:50px 0 0;
